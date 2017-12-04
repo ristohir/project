@@ -1,5 +1,5 @@
 # project
-1. instalation
+1. installation
 2. running the program
 3. Doing the quiz
 4. License
